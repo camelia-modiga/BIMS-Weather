@@ -3,13 +3,13 @@ Simple project that uses a Raspberry Pi Zero W in order to read data from a temp
 
 
 # Students:
-Bîzgan Alina-1306B 
-Ichim Paula-1308A 
-Modiga Camelia-1306B 
+Bîzgan Alina-1306B    
+Ichim Paula-1308A     
+Modiga Camelia-1306B   
 Ștefan Alexandra-1306B
 
 ## [Project on Hackster](https://www.hackster.io/camelia-modiga/temperature-and-humidity-system-monitoring-using-raspberrypi-1e52b3) 
-
+## [Project Demo](https://www.youtube.com/watch?v=kz0cqbYBGAE&ab_channel=AlinaB%C3%AEzgan )
 
 # Elevator Pitch
 
